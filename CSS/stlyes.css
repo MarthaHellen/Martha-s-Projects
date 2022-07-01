@@ -50,4 +50,24 @@ p{
 a:hover{
     color: red;
 }
+.contact:hover{
+    background-color: beige;
+    transition: .4s;
+}
+.education:hover{
+    background-color: beige;
+    transition: .4s;
+}
+.hobbies:hover{
+    background-color: beige;
+    transition: .4s;
+}
+.photo:hover{
+    background-color: beige;
+    transition: .4s;
+}
+.bio:hover{
+    background-color: beige;
+    transition: .4s;
+}
     
