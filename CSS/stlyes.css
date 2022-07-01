@@ -1,0 +1,53 @@
+.bio{
+    background-color: gray;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    
+}
+.photo{
+    background-color: blue;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    left: 440px;
+}
+.education{
+    background-color: pink;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    top: 242px;
+    left: 220px;
+}
+.hobbies{
+    background-color: brown;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    top: 462px;
+}
+.contact{
+    background-color: aqua;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    top: 462px;
+    left: 440px;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+h3{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+p{
+    text-align: center;
+    margin-top: 100px;
+}
+a:hover{
+    color: red;
+}
+    
